@@ -15,6 +15,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "cors": "^2.8.5",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "nodemailer": "^6.4.11",
     "@reduxjs/toolkit": "^1.9.7",
     "axios": "^1.6.3",
     "cors": "^2.8.5",
